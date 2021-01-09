@@ -1,1 +1,3 @@
-# happy-web-front-end
+# happy web front end
+
+App Education mode about RocketSeat.
